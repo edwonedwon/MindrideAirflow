@@ -1,9 +1,17 @@
-ex-basic
+INSTRUCTIONS	
 ========
 
-This repository has just 5 basic commits on master by three different coders, providing a basic commit structure for learning exploring Git commands.
+This repository is for the Mindride Airflow project. 
 
 ## Usage
 
-* Using `git log` to review simple history
-* Filtering `git log` with `--author` option
+this repository does not include 
+
+/Content/Photolands/ 
+/Content/MindRideAddedContent/ 
+
+because they are too big for GitHub
+
+you’ll need to copy those folders and their contents into the project from somewhere else (dropbox)
+
+those folders and their contents are ignored by the git repository so be careful with changes inside it, they cannot be reversed
