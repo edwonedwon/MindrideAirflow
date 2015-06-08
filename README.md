@@ -7,7 +7,8 @@ This repository is for the Mindride Airflow project.
 
 this repository does not include 
 
-/Content/Photolands/ 
+/Content/Photolands/
+
 /Content/MindRideAddedContent/ 
 
 because they are too big for GitHub
