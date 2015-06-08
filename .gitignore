@@ -1,0 +1,15 @@
+/Saved/
+/Intermediate/
+/Content/PhotoLands/
+/Content/MindRideAddedContent/
+
+/Binaries/
+/Intermediate/
+
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+*.sdf
+*.sln
+*.suo
