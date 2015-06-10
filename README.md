@@ -16,3 +16,7 @@ because they are too big for GitHub
 you’ll need to copy those folders and their contents into the project from somewhere else (dropbox)
 
 those folders and their contents are ignored by the git repository so be careful with changes inside it, they cannot be reversed
+
+## TO DO
+
+• still need to add oculus support back in to BP_Plane
